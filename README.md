@@ -1,200 +1,123 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:161B22&text=KIZ4RU&fontColor=00FF41&fontSize=55&fontAlignY=40&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,100:161B22&text=KIZ4RU&fontColor=00FF41&fontSize=55&fontAlignY=38&animation=twinkling"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=700&height=60&duration=3500&color=00FF41&lines=Cybersecurity+%7C+Pentesting+%7C+Web+Development;Ethical+Hacking+%7C+Linux+%7C+Networking;Building+%2C+Breaking+%2C+Learning"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=720&height=50&duration=3500&color=00FF41&lines=Security+Operations+%2F+SOC+by+day;Offensive+security+%2B+homelab+by+night;Build+it%2C+break+it%2C+understand+it" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kiz4ru">
-    <img src="https://img.shields.io/github/followers/Kiz4ru?label=Followers&style=for-the-badge&color=00ff41&labelColor=0d1117"/>
-  </a>
-  <a href="https://github.com/Kiz4ru">
-    <img src="https://komarev.com/ghpvc/?username=Kiz4ru&style=for-the-badge&color=00ff41&labelColor=0d1117"/>
-  </a>
+  <a href="https://kiz4ru.github.io/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=00FF41"/></a>
+  <!-- TODO: pon tu HTB / TryHackMe reales -->
+  <a href="#"><img src="https://img.shields.io/badge/Hack%20The%20Box-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF41"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=00FF41"/></a>
+  <a href="https://instagram.com/inigobrk"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF41"/></a>
 </p>
 
 ---
 
-# `whoami`
+## `whoami`
 
-```bash
-┌──[kiz4ru@github]─[~]
-└─$ whoami
+**Systems Operator in a 24/7 Security Operations team**, working on critical government infrastructure — real-time monitoring, incident detection and response, and on-call rotations. Alongside the day job I'm going deep into **offensive security**: pentesting, Active Directory and Linux, and a self-hosted lab where I break things on purpose.
 
-Cybersecurity Student & Developer
-
-> Ethical Hacking
-> Penetration Testing
-> Web Security
-> Web Development
-> Linux & Networking
-> CTFs & Security Labs
-```
-
-I'm a **Cybersecurity student** focused on offensive security, penetration testing and secure web development.
-
-I enjoy understanding how systems work, finding weaknesses in controlled environments, building applications and continuously learning about security.
-
-```bash
-┌──[kiz4ru@github]─[~]
-└─$ cat current_focus.txt
-
-[+] Penetration Testing
-[+] Web Application Security
-[+] Network Security
-[+] Linux
-[+] Ethical Hacking
-[+] Secure Development
-[+] CTFs
-```
-
----
-
-# `>_ Tech Stack`
-
-### Cybersecurity
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kali,linux,docker" />
-</p>
-
-`Burp Suite` • `Nmap` • `Metasploit` • `Wireshark` • `Hydra` • `Hack The Box`
-
-### Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,php,java,js,html,css,laravel,mysql" />
-</p>
-
-`Python` • `PHP` • `Java` • `JavaScript` • `Laravel` • `MySQL`
-
-### Infrastructure & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,idea,linux" />
-</p>
-
-`Git` • `GitHub` • `GitLab` • `Docker` • `Linux` • `Virtualization`
-
-### Networking
+I like understanding systems from the inside — how they run, where they fail, and how an attacker would abuse that.
 
 ```text
-Cisco
-├── TCP/IP
-├── VLANs
-├── Routing & Switching
-├── Network Security
-└── Packet Tracer
+Now            → Security Operations · monitoring & incident response (24x7)
+Specialising   → Pentesting · Active Directory & Linux
+Building       → Self-hosted homelab · LivingLinked (Laravel app)
+Next           → eJPT → CRTO → OSEP
 ```
 
 ---
 
-# `>_ Featured Projects`
+## `>_ Homelab — where I actually learn`
+
+Not a badge collection. A running multi-node lab I administer end to end.
+
+```text
+Proxmox cluster
+├── Node A · X99 dual Xeon      → main compute, VMs & LXC
+├── Node B · Z370              → secondary node
+├── MikroTik CRS326            → segmented network with VLANs
+├── Pi-KVM (Raspberry Pi)      → out-of-band management
+├── NAS (6× HDD)               → backups
+└── Remote access              → Tailscale / WireGuard (zero exposed ports)
+```
+
+**Skills this proves:** Linux administration · virtualisation · network segmentation · VPN & remote access · backup strategy · service self-hosting.
+
+<!-- TODO: si haces un repo con el writeup del homelab, enlázalo aquí -->
+📖 Writeup & architecture → _coming soon_
+
+---
+
+## `>_ Projects`
 
 ### 🏠 LivingLinked
+Flatmate-matching platform for students and Erasmus, built around compatibility, user verification and secure communication. Founder & developer.
+`Laravel` · `PHP` · `MySQL` · `JavaScript`
+<!-- TODO: enlaza repo y/o demo -->
+🔗 Repo · Live demo → _add link_
 
-A roommate matching platform focused on compatibility, user verification and secure communication.
+### 🔐 eJPT Cheatsheet
+Clean, self-built reference page for the eJPT certification path — enumeration, exploitation and post-exploitation notes.
+<!-- TODO: enlaza la web del cheatsheet -->
+🔗 → _add link_
 
-**Stack:** `Laravel` `PHP` `MySQL` `JavaScript`
-
----
-
-### 🔐 Cybersecurity Lab
-
-Personal homelab for cybersecurity experimentation, networking and virtualization.
-
-**Focus:** `Proxmox` `Linux` `Docker` `Networking` `Security Labs`
-
----
-
-### 🌐 Web Development
-
-Development of modern web applications and services using modern frameworks and backend technologies.
-
-**Stack:** `Laravel` `PHP` `JavaScript` `MySQL` `Docker`
+### 🧪 Homelab
+See above — infrastructure, networking and security experimentation.
 
 ---
 
-# `>_ Currently Learning`
+## `>_ Certifications & Learning`
 
 ```text
-01  Penetration Testing
-02  Web Application Security
-03  Network Security
-04  Linux & System Administration
-05  Cisco Networking
-06  CTF / Offensive Security
-07  Secure Software Development
+[✓] Cisco Networking Academy — Ethical Hacker (70h, 2025)
+[~] eJPT — in progress
+[ ] CRTO   — planned
+[ ] OSEP   — planned
 ```
 
----
-
-# `>_ Cybersecurity`
-
-```text
-             ┌──────────────────────┐
-             │      KIZ4RU LAB      │
-             └──────────┬───────────┘
-                        │
-          ┌─────────────┼─────────────┐
-          │             │             │
-       WEB SEC       NETWORK       SYSTEMS
-          │             │             │
-       Burp Suite      Nmap          Linux
-       OWASP           Wireshark     Docker
-       SQLi            Cisco         Proxmox
-       XSS             VLAN          Virtualization
-          │             │             │
-          └─────────────┼─────────────┘
-                        │
-                  ETHICAL HACKING
-```
-
-> All security testing is performed only in authorized environments, labs and CTF platforms.
+Practising on: Hack The Box · TryHackMe · GOAD (Active Directory labs).
 
 ---
 
-# `>_ GitHub Stats`
+## `>_ Tech`
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kiz4ru&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&bg_color=0d1117"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiz4ru&layout=compact&theme=github_dark&hide_border=true&title_color=00ff41&text_color=c9d1d9&bg_color=0d1117"/>
-</p>
+**Security & Offensive** — Burp Suite · Nmap · Wireshark · Metasploit · Hydra
+**Systems & Networking** — Linux · Docker · Proxmox · MikroTik / VLANs · Cisco (TCP/IP, routing & switching)
+**Development** — Python · PHP · Laravel · JavaScript · MySQL · Git
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kiz4ru&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,kali,docker,python,php,laravel,mysql,js,git" />
 </p>
 
 ---
 
-# `>_ Connect`
+## `>_ Languages`
+
+`Spanish — native` · `Basque — native` · `English — B2`
+
+---
+
+## `>_ Stats`
 
 <p align="center">
-
-<a href="https://github.com/Kiz4ru">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41"/>
-</a>
-
-<a href="https://kiz4ru.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=00FF41"/>
-</a>
-
-<a href="https://instagram.com/inigobrk">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF41"/>
-</a>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kiz4ru&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiz4ru&layout=compact&theme=github_dark&hide_border=true&title_color=00ff41&text_color=c9d1d9&bg_color=0d1117"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/output/github-contribution-grid-snake-dark.svg"/>
+## `>_ Let's talk`
+
+Open to conversations around **security operations, pentesting and infrastructure**.
+
+<p>
+  <a href="https://kiz4ru.github.io/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=00FF41"/></a>
+  <a href="https://github.com/Kiz4ru"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41"/></a>
+  <a href="https://instagram.com/inigobrk"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF41"/></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:161B22,100:0D1117&section=footer"/>
-</p>
+<p align="center"><code>root@kiz4ru:~$ stay_curiously_insecure</code></p>
 
-<p align="center">
-  <code>root@kiz4ru:~$ stay_curiously_insecure</code>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:161B22,100:0D1117&section=footer"/>
