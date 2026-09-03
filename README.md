@@ -16,7 +16,7 @@
 
 ## `whoami`
 
-**Systems Operator in a 24/7 Security Operations team**, working on critical government infrastructure — real-time monitoring, incident detection and response, and on-call rotations. Alongside the day job I'm going deep into **offensive security**: pentesting, Active Directory and Linux, and a self-hosted lab where I break things on purpose.
+**Systems Operator in a 24/7 Security Operations team**, working on critical government infrastructure real-time monitoring, incident detection and response, and on-call rotations. Alongside the day job I'm going deep into **offensive security**: pentesting, Active Directory and Linux, and a self-hosted lab where I break things on purpose.
 
 I like understanding systems from the inside — how they run, where they fail, and how an attacker would abuse that.
 
