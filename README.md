@@ -1,143 +1,200 @@
-﻿<img width=100% title="KIZ4RU" alt="KIZ4RU" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:EEFF00,100&text=KIZ4RU&fontAlign=51&textBg=false&reversal=false&animation=twinkling"/>
-
-<table border="0">
- <tr>
-    <td>
-      <br>
-     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+kiz4ru;"/>
-    <td>
-      <img alt="gif" src="kiz4rugss.gif">
-   </td>  
- </tr>
- <tr>
-  <td align="center" >
-  <img alt="gif"  src="looksd.gif">
-  </td>
-  <td >
-  <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I+hope+u+like+it!"/>
-  </td>
- </tr>
-</table>
-
-<h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
-</b></h3>
-
-```java
-public class Main {
-    public static void main(String[] args) {
-        // Crear instancia de la clase Person
-        Person me = new Person();
-
-        // Asignación de valores
-        me.name = "Kiz4ru";
-        me.username = "Kiz4ru";
-        me.age = 23;
-        me.job = "Pentester | Web Developer";
-        me.hobbies = new String[]{"code", "anime", "music", "hacking", "gaming", "hackthebox"};
-
-        // Imprimir la instancia
-        System.out.println(me);
-    }
-}
-```
-
-
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> Connect With Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:161B22&text=KIZ4RU&fontColor=00FF41&fontSize=55&fontAlignY=40&animation=twinkling"/>
 
 <p align="center">
-<a href="https://instagram.com/inigobrk"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a align="center"><a href="https://kiz4ru.github.io/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=700&height=60&duration=3500&color=00FF41&lines=Cybersecurity+%7C+Pentesting+%7C+Web+Development;Ethical+Hacking+%7C+Linux+%7C+Networking;Building+%2C+Breaking+%2C+Learning"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Kiz4ru">
+    <img src="https://img.shields.io/github/followers/Kiz4ru?label=Followers&style=for-the-badge&color=00ff41&labelColor=0d1117"/>
+  </a>
+  <a href="https://github.com/Kiz4ru">
+    <img src="https://komarev.com/ghpvc/?username=Kiz4ru&style=for-the-badge&color=00ff41&labelColor=0d1117"/>
+  </a>
+</p>
+
+---
+
+# `whoami`
+
+```bash
+┌──[kiz4ru@github]─[~]
+└─$ whoami
+
+Cybersecurity Student & Developer
+
+> Ethical Hacking
+> Penetration Testing
+> Web Security
+> Web Development
+> Linux & Networking
+> CTFs & Security Labs
+```
+
+I'm a **Cybersecurity student** focused on offensive security, penetration testing and secure web development.
+
+I enjoy understanding how systems work, finding weaknesses in controlled environments, building applications and continuously learning about security.
+
+```bash
+┌──[kiz4ru@github]─[~]
+└─$ cat current_focus.txt
+
+[+] Penetration Testing
+[+] Web Application Security
+[+] Network Security
+[+] Linux
+[+] Ethical Hacking
+[+] Secure Development
+[+] CTFs
+```
+
+---
+
+# `>_ Tech Stack`
+
+### Cybersecurity
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kali,linux,docker" />
+</p>
+
+`Burp Suite` • `Nmap` • `Metasploit` • `Wireshark` • `Hydra` • `Hack The Box`
+
+### Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,java,js,html,css,laravel,mysql" />
+</p>
+
+`Python` • `PHP` • `Java` • `JavaScript` • `Laravel` • `MySQL`
+
+### Infrastructure & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,idea,linux" />
+</p>
+
+`Git` • `GitHub` • `GitLab` • `Docker` • `Linux` • `Virtualization`
+
+### Networking
+
+```text
+Cisco
+├── TCP/IP
+├── VLANs
+├── Routing & Switching
+├── Network Security
+└── Packet Tracer
+```
+
+---
+
+# `>_ Featured Projects`
+
+### 🏠 LivingLinked
+
+A roommate matching platform focused on compatibility, user verification and secure communication.
+
+**Stack:** `Laravel` `PHP` `MySQL` `JavaScript`
+
+---
+
+### 🔐 Cybersecurity Lab
+
+Personal homelab for cybersecurity experimentation, networking and virtualization.
+
+**Focus:** `Proxmox` `Linux` `Docker` `Networking` `Security Labs`
+
+---
+
+### 🌐 Web Development
+
+Development of modern web applications and services using modern frameworks and backend technologies.
+
+**Stack:** `Laravel` `PHP` `JavaScript` `MySQL` `Docker`
+
+---
+
+# `>_ Currently Learning`
+
+```text
+01  Penetration Testing
+02  Web Application Security
+03  Network Security
+04  Linux & System Administration
+05  Cisco Networking
+06  CTF / Offensive Security
+07  Secure Software Development
+```
+
+---
+
+# `>_ Cybersecurity`
+
+```text
+             ┌──────────────────────┐
+             │      KIZ4RU LAB      │
+             └──────────┬───────────┘
+                        │
+          ┌─────────────┼─────────────┐
+          │             │             │
+       WEB SEC       NETWORK       SYSTEMS
+          │             │             │
+       Burp Suite      Nmap          Linux
+       OWASP           Wireshark     Docker
+       SQLi            Cisco         Proxmox
+       XSS             VLAN          Virtualization
+          │             │             │
+          └─────────────┼─────────────┘
+                        │
+                  ETHICAL HACKING
+```
+
+> All security testing is performed only in authorized environments, labs and CTF platforms.
+
+---
+
+# `>_ GitHub Stats`
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kiz4ru&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiz4ru&layout=compact&theme=github_dark&hide_border=true&title_color=00ff41&text_color=c9d1d9&bg_color=0d1117"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kiz4ru&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
+</p>
+
+---
+
+# `>_ Connect`
+
+<p align="center">
+
+<a href="https://github.com/Kiz4ru">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41"/>
 </a>
 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+<a href="https://kiz4ru.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=00FF41"/>
+</a>
 
-## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>
+<a href="https://instagram.com/inigobrk">
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF41"/>
+</a>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>My Favorite Tools And Technologies ⚙️
+</p>
 
-> Tools and technologies that I have worked with and I'm interested in
+---
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="Php" />
-      <br>Php
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="Idea" />
-      <br>Idea
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali" />
-      <br>Kali
-    </td>
-  </tr>
-   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-     <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" />
-    <br>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-  </tr>
- <tr>
- </tr>
-</table>
- 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
-<!-- Contribution Snake -->
-<p align="center"><img src="github-contribution-grid-snake.svg"></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:161B22,100:0D1117&section=footer"/>
+</p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-<!-- Footer -->
-
-<img src="Footer.jpg">
+<p align="center">
+  <code>root@kiz4ru:~$ stay_curiously_insecure</code>
+</p>
